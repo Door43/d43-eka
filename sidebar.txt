@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[eka:home|Door43 (eka)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-eka|d43-eka repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-eka/archive/master.zip|d43-eka.zip]]
+
+**Recent Changes**
+{{changes>ns = eka}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/eka|Ethnologue data]]
+
